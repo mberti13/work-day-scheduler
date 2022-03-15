@@ -11,4 +11,4 @@ This project is an online web application designed to resemble one's daily busin
 
 
 **Link to Deployed Application:**
-https://mberti13.github.io/password-generator/
+https://mberti13.github.io/work-day-scheduler/
